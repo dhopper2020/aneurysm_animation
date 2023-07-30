@@ -1,1 +1,1 @@
-# aneurysm_animation
+This code creates a animation of a 1000 frames of an aneurysm.  This code uses rasterization to create the each picture.  Each pixel color is then interpolated to smooth the colors through the images.  Then shading is added using all three different forms, being diffuse, specular, and ambient light.  
